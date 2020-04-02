@@ -8,7 +8,7 @@
     "outlayer": "^2.1.0"
   },
   "devDependencies": {
-    "chalk": "^1.1.1",
+    "chalk": "^4.0.0",
     "gulp": "^3.9.0",
     "gulp-jshint": "^2.0.0",
     "gulp-json-lint": "^0.1.0",
