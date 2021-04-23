@@ -13,7 +13,7 @@
     "gulp-jshint": "^2.0.0",
     "gulp-json-lint": "^0.1.0",
     "gulp-rename": "^1.2.2",
-    "gulp-replace": "^0.5.4",
+    "gulp-replace": "^1.1.1",
     "gulp-requirejs-optimize": "metafizzy/gulp-requirejs-optimize",
     "gulp-uglify": "^1.5.1",
     "gulp-util": "^3.0.7",
